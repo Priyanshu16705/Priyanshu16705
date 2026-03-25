@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 
+<h3 align="center">🚀 Full Stack Developer | Backend Enthusiast | AI/ML Learner</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Backend+Enthusiast;AI+%2F+ML+Learner;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Passionate+about+Backend+Development;Exploring+AI+%2F+ML+and+LLMs;Competitive+Programmer+%7C+Problem+Solver" />
+</p>
+
+<p align="center">
+  💡 I love building real-time applications, solving complex problems, and exploring cutting-edge technologies.<br>
+  🔧 Currently focused on Backend Development, System Design, and AI-driven solutions.<br>
+  🌱 Always learning, always building, always improving.
 </p>
 
 ---
@@ -52,7 +60,17 @@
 - Desktop app using Python & MySQL  
 - EMI, interest, loan tracking automation
 
-- 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/linkedin.com/in/priyanshu-kumar-260665256">
+    <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:priyanshu2005kumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,18 +82,3 @@
 </p>
 
 ---
-
-
-## 📈 Achievements
-
-* 🧠 Solved 100+ DSA problems
-* 🏆 JEE Advanced Top 2%
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="linkedin.com/in/priyanshu-kumar-260665256">LinkedIn</a> •
-  <a href="mailto:priyanshu2005kumar@gmail.com">Email</a>
-</p>
