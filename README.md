@@ -40,7 +40,19 @@
 ![Git](https://img.shields.io/badge/Git-red)
 
 ---
+## 💻 Featured Projects
 
+### 🔹 Code Sync – Real-Time Collaborative Code Editor  
+🔗 https://github.com/Priyanshu16705/Code-Sync  
+- Built real-time collaborative editor using Socket.IO  
+- Multi-user editing, chat, presence system  
+
+### 🔹 Finance Flow – Loan Management System  
+🔗 https://github.com/Priyanshu16705/Finance-_-Flow  
+- Desktop app using Python & MySQL  
+- EMI, interest, loan tracking automation
+
+- 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -53,21 +65,6 @@
 
 ---
 
-## 💻 Featured Projects
-
-### 🔹 Code Sync – Real-Time Collaborative Code Editor
-
-* Built real-time collaborative editor using Socket.IO
-* Multi-user editing, chat, presence system
-* Dockerized & deployed
-
-### 🔹 Finance Flow – Loan Management System
-
-* Desktop app using Python & MySQL
-* EMI, interest, loan tracking automation
-* Role-based authentication system
-
----
 
 ## 📈 Achievements
 
