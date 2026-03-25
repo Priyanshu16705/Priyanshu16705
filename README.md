@@ -63,7 +63,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/linkedin.com/in/priyanshu-kumar-260665256">
+  <a href="linkedin.com/in/priyanshu-kumar-260665256">
     <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
