@@ -63,7 +63,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="linkedin.com/in/priyanshu-kumar-260665256">
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-260665256">
     <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
@@ -71,6 +71,8 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
